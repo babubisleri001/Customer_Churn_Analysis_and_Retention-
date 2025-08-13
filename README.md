@@ -1,4 +1,4 @@
-**Excited to share Churn Analysis Project using SQL Server, Power BI, and Machine Learning.**
+**Excited to share my Churn Analysis Project using SQL Server, Power BI, and Machine Learning.**
 
 This project demonstrates a complete workflow from data extraction, transformation, and loading (ETL) to data analysis, visualization, and predictive modeling, offering significant insights and strategies for enhancing customer retention.
 
